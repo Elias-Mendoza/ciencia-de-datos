@@ -1,0 +1,7 @@
+# Datos descargados por los notebooks
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
