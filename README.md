@@ -1,6 +1,6 @@
 # Ciencia de Datos: phishing y enfermedad cardíaca
 
-Trabajos prácticos de análisis de datos y Machine Learning realizados durante la carrera de Ingeniería en Informática (UBA).
+Proyectos de análisis de datos y Machine Learning realizados durante la carrera de Ingeniería en Informática (UBA).
 Cada notebook se puede abrir y ejecutar directamente en Google Colab: los datos se descargan solos, sin iniciar sesión.
 
 ## Notebooks
