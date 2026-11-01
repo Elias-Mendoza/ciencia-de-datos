@@ -1,17 +1,17 @@
 # Ciencia de Datos: phishing y enfermedad cardíaca
 
-Trabajos prácticos de análisis de datos y Machine Learning realizados en la carrera de Ingeniería en Informática (FIUBA).
+Trabajos prácticos de análisis de datos y Machine Learning realizados durante la carrera de Ingeniería en Informática (UBA).
 Cada notebook se puede abrir y ejecutar directamente en Google Colab: los datos se descargan solos, sin iniciar sesión.
 
 ## Notebooks
 
 | Notebook | Contenido | Tecnologías | Colab |
 |---|---|---|---|
-| [01 · Análisis exploratorio de phishing](notebooks/01_eda_phishing_pandas.ipynb) | EDA de 212.216 URLs, verificación de consistencia del dataset y visualizaciones | Pandas, Matplotlib, Seaborn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos-fiuba/blob/main/notebooks/01_eda_phishing_pandas.ipynb) |
-| [02 · Phishing con Spark](notebooks/02_phishing_spark.ipynb) | Agregaciones distribuidas con RDDs (map / reduceByKey) sobre el mismo dataset | PySpark | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos-fiuba/blob/main/notebooks/02_phishing_spark.ipynb) |
-| [03 · Regresión Logística](notebooks/03_ml_regresion_logistica.ipynb) | Baseline: imputación, pipeline de preprocesamiento y búsqueda de regularización | scikit-learn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos-fiuba/blob/main/notebooks/03_ml_regresion_logistica.ipynb) |
-| [04 · Random Forest](notebooks/04_ml_random_forest.ipynb) | Búsqueda de hiperparámetros e importancia de variables | scikit-learn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos-fiuba/blob/main/notebooks/04_ml_random_forest.ipynb) |
-| [05 · XGBoost y entrega a Kaggle](notebooks/05_ml_xgboost_kaggle.ipynb) | Categóricas nativas, early stopping y generación del archivo de entrega | XGBoost | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos-fiuba/blob/main/notebooks/05_ml_xgboost_kaggle.ipynb) |
+| [01 · Análisis exploratorio de phishing](notebooks/01_eda_phishing_pandas.ipynb) | EDA de 212.216 URLs, verificación de consistencia del dataset y visualizaciones | Pandas, Matplotlib, Seaborn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos/blob/main/notebooks/01_eda_phishing_pandas.ipynb) |
+| [02 · Phishing con Spark](notebooks/02_phishing_spark.ipynb) | Agregaciones distribuidas con RDDs (map / reduceByKey) sobre el mismo dataset | PySpark | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos/blob/main/notebooks/02_phishing_spark.ipynb) |
+| [03 · Regresión Logística](notebooks/03_ml_regresion_logistica.ipynb) | Baseline: imputación, pipeline de preprocesamiento y búsqueda de regularización | scikit-learn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos/blob/main/notebooks/03_ml_regresion_logistica.ipynb) |
+| [04 · Random Forest](notebooks/04_ml_random_forest.ipynb) | Búsqueda de hiperparámetros e importancia de variables | scikit-learn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos/blob/main/notebooks/04_ml_random_forest.ipynb) |
+| [05 · XGBoost y entrega a Kaggle](notebooks/05_ml_xgboost_kaggle.ipynb) | Categóricas nativas, early stopping y generación del archivo de entrega | XGBoost | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elias-Mendoza/ciencia-de-datos/blob/main/notebooks/05_ml_xgboost_kaggle.ipynb) |
 
 ## Parte 1: Detección de phishing (notebooks 01 y 02)
 
